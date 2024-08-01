@@ -10,3 +10,18 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 10%;
+}
+
+header .icon {
+    width: 32px;
+    height: 32px;
+    margin-right: auto;
+    cursor: pointer;
+}
