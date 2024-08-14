@@ -25,3 +25,28 @@ header .icon {
     margin-right: auto;
     cursor: pointer;
 }
+header nav ul {
+    display: flex;
+    flex-direction: row;
+}
+header nav li {
+    list-style: none;
+}
+header nav li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px; 
+    margin: 0 5px;
+}
+header nav li a:hover {
+    text-decoration: underline;
+    background-color: #323338;
+    border-radius: 5px;
+}
+header nav a.special {
+    background-color: #5264bd;
+    border-radius: 5px;
+}
+header nav a.special:hover {
+    background-color: #405ffb;
+}
