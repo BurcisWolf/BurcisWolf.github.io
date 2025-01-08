@@ -82,8 +82,8 @@ section .right img {
     background-color: #5264bd;
     color: white;
     border: none;
-    margin: 10px 0 10px 0;
-    padding: 10px 10px;
+    margin: 10px 10px 10px 0;
+    padding: 10px 25px;
     border-radius: 10px;
     transition: 0.2s;
 }
