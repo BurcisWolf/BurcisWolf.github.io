@@ -11,6 +11,14 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.fa-brands{
+    padding: 10px 15px;
+    color: white;
+}
+.fa-brands:hover {
+    color: #e8ecff;
+}
+
 /* Header styling */
 header {
     display: flex;
